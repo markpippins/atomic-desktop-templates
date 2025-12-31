@@ -5,3 +5,14 @@ electron/angular/angular-electron-can/.vscode/tasks.json
 electron/angular/angular-electron-can/.editorconfig
 electron/angular/angular-electron-can/.gitignore
 electron/angular/angular-electron-can/bun.lock
+electron/angular/angular-electron-can/dist/myapp/3rdpartylicenses.txt
+electron/angular/angular-electron-can/dist/myapp/prerendered-routes.json
+electron/angular/angular-electron-can/dist/myapp/browser/main-53IRWQMB.js
+electron/angular/angular-electron-can/dist/myapp/browser/polyfills-5CFQRCPP.js
+electron/angular/angular-electron-can/dist/myapp/browser/styles-5INURTSO.css
+.gitignore
+electron/angular/angular-electron-can/.angular/cache/20.3.13/myapp/.tsbuildinfo
+electron/angular/angular-electron-can/.angular/cache/20.3.13/myapp/angular-compiler.db
+electron/angular/angular-electron-can/.angular/cache/20.3.13/myapp/angular-compiler.db-lock
+electron/angular/angular-electron-can/dist/myapp/browser/favicon.ico
+electron/angular/angular-electron-can/dist/myapp/browser/index.html
