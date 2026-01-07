@@ -16,3 +16,5 @@ electron/angular/angular-electron-can/.angular/cache/20.3.13/myapp/angular-compi
 electron/angular/angular-electron-can/.angular/cache/20.3.13/myapp/angular-compiler.db-lock
 electron/angular/angular-electron-can/dist/myapp/browser/favicon.ico
 electron/angular/angular-electron-can/dist/myapp/browser/index.html
+electron/angular/angular-electron-can/package-lock.json
+.gitignore
